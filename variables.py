@@ -32,3 +32,8 @@ print(type(c)) #string
 print(a)
 print(b)
 print(c)
+
+#Boolean -- True, False 
+# true , false --- wrong
+
+

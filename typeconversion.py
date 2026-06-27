@@ -19,3 +19,8 @@ print(sum2)
 f = int("2")
 g = float("3.2")
 print(f+g)
+
+#type conversion - explicit type conversion
+#type casting - converting one data type to another data type
+#type casting is done by using the constructor functions of the data types
+#type casting is done only when the data types are compatible

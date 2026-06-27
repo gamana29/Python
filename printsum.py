@@ -16,3 +16,14 @@ Multi line comment
 """
 
 ##Single line comment
+
+# print("This is my first program","ok")
+# print("This is my first program","ok")
+# print("This is my first program","ok")
+# print("This is my first program","ok")
+# print("This is my first program","ok")
+# print("This is my first program","ok")
+
+
+# CTRL + /  --> to comment or uncomment the selected lines
+
