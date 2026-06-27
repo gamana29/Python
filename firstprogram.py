@@ -1,0 +1,7 @@
+print("Hello world")
+print("Gamana")
+print("This is my first program","ok")
+print(23)
+print(34+90)
+print(89-45)
+print(89*7)
