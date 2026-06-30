@@ -54,3 +54,17 @@ def usd_to_inr(usd):
     inr = usd*84
     return inr
 print(usd_to_inr(100))
+
+
+
+#recursion - a function that calls itself, it is used to solve problems that can be broken down into smaller sub-problems of the same type. It is a powerful tool for solving problems that can be defined in terms of themselves.
+
+def show(n):
+    if(n==0):
+        return
+    print(n)
+    show(n-1)
+
+show(5)
+show(20)
+
