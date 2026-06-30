@@ -29,12 +29,14 @@ while i<=n:
     i+=1
 print(s)
 
-#factorial
+#factorial - for loop
 fact = 1
 n = 5
 for i in range(1,n+1):
     fact*=i
 print(fact)
+
+#while loop
 
 fact = 1
 n = 6

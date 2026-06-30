@@ -69,3 +69,4 @@ print("chirumamilla") #end = "\n" is used to print the next value in a new line
 def cal(a,b=2): #b is a default parameter
     return a*b
 print(cal(5)) #function call #b is not passed, so it takes the default value of 2
+

@@ -20,5 +20,7 @@ for c in s1:
         print("found")
         break
     print(c) 
-
+else:
     print("loop is completed")
+
+# else does not work in break condition, it will only work if the loop is completed without any break statement
