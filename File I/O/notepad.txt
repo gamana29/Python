@@ -5,3 +5,10 @@ Types of files
 
 read and write operations 
 
+r - read
+w - write
+x - create new file and open it for writing
+a - open for writing, appending to the end of the file if it exists
+b - binary mode
+t - text mode
++ - open a disk file for updating 
