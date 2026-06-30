@@ -1,0 +1,7 @@
+Types of files
+
+1. text files : .txt,.docx,.log etc.
+2. binary files : .mp4,.mov,.png,.jpeg etc
+
+read and write operations 
+
