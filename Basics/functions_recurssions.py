@@ -14,3 +14,8 @@ print(sn(5,23))
 print(sn(2,2))
 print(sn(5,23))
 print(sn(2,2))
+
+
+def cal_sum(a,b):
+    return a-b
+print(cal_sum(100,90))
